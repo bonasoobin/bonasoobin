@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SooBin%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SooBin&fontSize=90&color=gradient&customColorList=0,2,2,5,30"/>
