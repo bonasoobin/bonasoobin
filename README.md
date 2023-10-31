@@ -37,12 +37,7 @@
 </div>
 
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bonasoobin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bonasoobin/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-    [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bonasoobin&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/bonasoobin/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-  </div>
-  <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonasoobin&layout=compact)](https://github.com/bonasoobin/github-readme-stats)
-  </div>
-</div>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bonasoobin\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/bonasoobin/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bonasoobin\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/bonasoobin/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonasoobin&layout=compact)](https://github.com/bonasoobin/github-readme-stats)
