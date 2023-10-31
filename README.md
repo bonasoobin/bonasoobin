@@ -35,3 +35,9 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=bonasoobin&show_icons=true" alt="bonasoobin's GitHub Stats">
+<br>
+<a href="https://github.com/bonasoobin">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonasoobin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="bonasoobin's Top Languages">
+</a>
