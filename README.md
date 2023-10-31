@@ -2,17 +2,14 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=SooBin&fontAlign=50&fontAlignY=35&color=0:74ebd5,100:ACB6E5&&fontColor=ffffff">
 </div>
-<html>
-<head>
-    <title>Git Artwork</title>
-</head>
-<body>
-    <img src="gitartwork.svg" alt="Git Artwork">
-</body>
-</html>
+
 <a href="https://github.com/bonasoobin"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center>
+    <meta charset="UTF-8">
+    <title>Tech Skills</title>
+</div>
+
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
