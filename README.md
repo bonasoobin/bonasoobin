@@ -36,17 +36,6 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bonasoobin&show_icons=true" alt="bonasoobin's GitHub Stats">
-  </div>
-  <div>
-    <a href="https://github.com/bonasoobin">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonasoobin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="bonasoobin's Top Languages">
-    </a>
-  </div>
-</div>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bonasoobin&bg_color=1a1b27&hide_border=false&text_color=c1c1cb&custom_title=Weekly+development" alt="bonasoobin's Weekly Development">
-</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonasoobin&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonasoobin&layout=compact)](https://github.com/bonasoobin/github-readme-stats)
